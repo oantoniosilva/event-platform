@@ -1,7 +1,5 @@
 export function App() {
   return (
-    <div>
-      Hi Dev!
-    </div>
+    <div className="text-2xl">Hi Dev!</div>
   )
 }

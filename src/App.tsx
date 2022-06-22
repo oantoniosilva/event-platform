@@ -1,5 +1,7 @@
+import { Event } from "./pages/Event";
+
 export function App() {
   return (
-    <div className="text-2xl">Hi Dev!</div>
+    <Event />
   )
 }
